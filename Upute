@@ -1,0 +1,11 @@
+Idete u tri smjera. Prvo, valja reproducirati neki prethodni rezultat na nekom malom datasetu (da učenje bude brzo), npr. Stanford backgrounds. Tu vam mogu biti od pomoći završni i diplomski radovi kolega Oreča, Grubišića, Anđelića, Ivković.
+
+Drugo, preuzmite, proučite i ukratko opišite datasetove:
+https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/22294_read-58694
+https://github.com/timqqt/Synthinel
+https://project.inria.fr/aerialimagelabeling/
+https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus
+
+Treće, proučite literaturu, identificirajte i ukratko opišite radove koji opisuju trenutno najbolje pristupe na spomenutim datasetovima.
+
+Očekujem da bi vam za sve to moglo trebati mjesec do dva dana. Na kraju semestra, ideja je pokušati dobiti rezultat na nekom većem zračnom datasetu. Sa SwiftNetom biste daleko došli.
